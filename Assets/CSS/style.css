@@ -188,3 +188,11 @@ footer{
     opacity: 1;
 }
 
+
+@media (max-width: 990px){
+.mx-md-10 {
+    margin-right: 6rem!important;
+    margin-left: 6rem !important;
+}
+
+}
