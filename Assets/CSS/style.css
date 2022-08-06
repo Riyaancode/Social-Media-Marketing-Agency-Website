@@ -196,3 +196,11 @@ footer{
 }
 
 }
+
+
+@media (max-width: 991px){
+
+.h-md-auto{
+    height: auto!important;
+}
+}
